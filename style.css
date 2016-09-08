@@ -1,0 +1,12 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  margin: 2rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Bungee Shade', cursive;
+}
+
+h1 {
+  font-size: 4em;
+}
